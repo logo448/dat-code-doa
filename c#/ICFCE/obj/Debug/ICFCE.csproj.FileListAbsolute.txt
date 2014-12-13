@@ -1,0 +1,5 @@
+C:\Users\Logan\gitRepos\logo448-programs\ICFCE\bin\Debug\ICFCE.dll
+C:\Users\Logan\gitRepos\logo448-programs\ICFCE\bin\Debug\ICFCE.pdb
+C:\Users\Logan\gitRepos\logo448-programs\ICFCE\obj\Debug\ICFCE.dll
+C:\Users\Logan\gitRepos\logo448-programs\ICFCE\obj\Debug\ICFCE.pdb
+C:\Users\Logan\gitRepos\logo448-programs\ICFCE\obj\Debug\ICFCE.csprojResolveAssemblyReference.cache
