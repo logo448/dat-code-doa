@@ -1,1 +1,10 @@
 C:\Users\Logan\gitRepos\logo448-programs\binaryClock\bin\Debug\binaryClock.exe.config
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\bin\Debug\binaryClock.exe.config
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\bin\Debug\binaryClock.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\bin\Debug\binaryClock.pdb
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\obj\Debug\binaryClock.csprojResolveAssemblyReference.cache
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\obj\Debug\binaryClock.Form1.resources
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\obj\Debug\binaryClock.Properties.Resources.resources
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\obj\Debug\binaryClock.csproj.GenerateResource.Cache
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\obj\Debug\binaryClock.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\binaryClock\obj\Debug\binaryClock.pdb

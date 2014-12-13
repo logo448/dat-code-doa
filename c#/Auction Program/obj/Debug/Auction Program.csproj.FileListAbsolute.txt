@@ -1,1 +1,7 @@
 C:\Users\Logan\gitRepos\logo448-programs\Auction Program\bin\Debug\Auction Program.exe.config
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Auction Program\bin\Debug\Auction Program.exe.config
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Auction Program\bin\Debug\Auction Program.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Auction Program\bin\Debug\Auction Program.pdb
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Auction Program\obj\Debug\Auction Program.csprojResolveAssemblyReference.cache
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Auction Program\obj\Debug\Auction Program.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Auction Program\obj\Debug\Auction Program.pdb

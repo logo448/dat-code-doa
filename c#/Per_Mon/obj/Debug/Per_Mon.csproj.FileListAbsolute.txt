@@ -4,3 +4,9 @@ C:\Users\Logan\gitRepos\logo448-programs\Per_Mon\bin\Debug\Per_Mon.pdb
 C:\Users\Logan\gitRepos\logo448-programs\Per_Mon\obj\Debug\Per_Mon.csprojResolveAssemblyReference.cache
 C:\Users\Logan\gitRepos\logo448-programs\Per_Mon\obj\Debug\Per_Mon.exe
 C:\Users\Logan\gitRepos\logo448-programs\Per_Mon\obj\Debug\Per_Mon.pdb
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Per_Mon\bin\Debug\Per_Mon.exe.config
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Per_Mon\obj\Debug\Per_Mon.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Per_Mon\obj\Debug\Per_Mon.pdb
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Per_Mon\bin\Debug\Per_Mon.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Per_Mon\bin\Debug\Per_Mon.pdb
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Per_Mon\obj\Debug\Per_Mon.csprojResolveAssemblyReference.cache
