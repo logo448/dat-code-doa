@@ -31,9 +31,24 @@ namespace Mouse_Keys
         /// <param name="e"></param>
         static void HotKeyManager_HotKeyPressed(object sender, HotKeyEventArgs e)
         {
-            if (e.Key == Keys.W)
+            // checks to see
+            switch (e.Key)
             {
-                Console.WriteLine("W");
+                case Keys.W:
+                    Console.WriteLine(e.Key);
+                    break;
+
+                case Keys.S:
+                    Console.WriteLine(e.Key);
+                    break;
+
+                case Keys.A:
+                    Console.WriteLine(e.Key);
+                    break;
+
+                case Keys.D:
+                    Console.WriteLine(e.Key);
+                    break;
             }
         }
     }
