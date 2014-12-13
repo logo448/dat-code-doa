@@ -1,0 +1,5 @@
+C:\Users\Logan\gitRepos\logo448-programs\Prime_Generator_Beta_V1\bin\Debug\Prime_Generator_Beta_V1.dll
+C:\Users\Logan\gitRepos\logo448-programs\Prime_Generator_Beta_V1\bin\Debug\Prime_Generator_Beta_V1.pdb
+C:\Users\Logan\gitRepos\logo448-programs\Prime_Generator_Beta_V1\obj\Debug\Prime_Generator_Beta_V1.csprojResolveAssemblyReference.cache
+C:\Users\Logan\gitRepos\logo448-programs\Prime_Generator_Beta_V1\obj\Debug\Prime_Generator_Beta_V1.dll
+C:\Users\Logan\gitRepos\logo448-programs\Prime_Generator_Beta_V1\obj\Debug\Prime_Generator_Beta_V1.pdb
