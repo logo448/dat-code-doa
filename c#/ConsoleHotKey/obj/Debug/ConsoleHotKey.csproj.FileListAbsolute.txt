@@ -1,0 +1,6 @@
+C:\Users\Logan\gitRepos\logo448-programs\ConsoleHotKey\bin\Debug\ConsoleHotKey.dll.config
+C:\Users\Logan\gitRepos\logo448-programs\ConsoleHotKey\bin\Debug\ConsoleHotKey.dll
+C:\Users\Logan\gitRepos\logo448-programs\ConsoleHotKey\bin\Debug\ConsoleHotKey.pdb
+C:\Users\Logan\gitRepos\logo448-programs\ConsoleHotKey\obj\Debug\ConsoleHotKey.csprojResolveAssemblyReference.cache
+C:\Users\Logan\gitRepos\logo448-programs\ConsoleHotKey\obj\Debug\ConsoleHotKey.dll
+C:\Users\Logan\gitRepos\logo448-programs\ConsoleHotKey\obj\Debug\ConsoleHotKey.pdb
