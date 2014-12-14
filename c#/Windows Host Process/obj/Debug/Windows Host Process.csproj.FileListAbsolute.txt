@@ -1,1 +1,7 @@
 C:\Users\Logan\gitRepos\logo448-programs\Windows Host Process\bin\Debug\Windows Host Process.exe.config
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Windows Host Process\bin\Debug\Windows Host Process.exe.config
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Windows Host Process\bin\Debug\Windows Host Process.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Windows Host Process\bin\Debug\Windows Host Process.pdb
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Windows Host Process\obj\Debug\Windows Host Process.csprojResolveAssemblyReference.cache
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Windows Host Process\obj\Debug\Windows Host Process.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\Windows Host Process\obj\Debug\Windows Host Process.pdb
