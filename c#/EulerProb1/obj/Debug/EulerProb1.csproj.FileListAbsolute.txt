@@ -4,3 +4,6 @@ C:\Users\Logan\gitRepos\logo448-programs\EulerProb1\bin\Debug\EulerProb1.pdb
 C:\Users\Logan\gitRepos\logo448-programs\EulerProb1\obj\Debug\EulerProb1.csprojResolveAssemblyReference.cache
 C:\Users\Logan\gitRepos\logo448-programs\EulerProb1\obj\Debug\EulerProb1.exe
 C:\Users\Logan\gitRepos\logo448-programs\EulerProb1\obj\Debug\EulerProb1.pdb
+C:\Users\Logan\gitRepos\dat-code-doa\c#\EulerProb1\bin\Debug\EulerProb1.exe.config
+C:\Users\Logan\gitRepos\dat-code-doa\c#\EulerProb1\obj\Debug\EulerProb1.exe
+C:\Users\Logan\gitRepos\dat-code-doa\c#\EulerProb1\obj\Debug\EulerProb1.pdb
