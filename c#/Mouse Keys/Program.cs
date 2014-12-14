@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using System.Windows.Forms;
 using ConsoleHotKey;
+using System.Drawing;
 
 namespace Mouse_Keys
 {
@@ -31,24 +32,43 @@ namespace Mouse_Keys
         /// <param name="e"></param>
         static void HotKeyManager_HotKeyPressed(object sender, HotKeyEventArgs e)
         {
-            // checks to see
+            // get current cursor position
+            Point pos = Cursor.Position;
+
+            // switch statement that checks to see which command was executed
             switch (e.Key)
             {
+                // check W
                 case Keys.W:
-                    Console.WriteLine(e.Key);
-                    break;
+                    {
+                        pos.Y = pos.Y - 20;
+                        Cursor.Position = pos;
+                        break;
+                    }                   
 
+                // check S
                 case Keys.S:
-                    Console.WriteLine(e.Key);
-                    break;
+                    {
+                        pos.Y = pos.Y + 20;
+                        Cursor.Position = pos;
+                        break;
+                    }
 
+                // check A
                 case Keys.A:
-                    Console.WriteLine(e.Key);
-                    break;
+                    {
+                        pos.X = pos.X - 20;
+                        Cursor.Position = pos;
+                        break;
+                    }
 
+                // check D
                 case Keys.D:
-                    Console.WriteLine(e.Key);
-                    break;
+                    {
+                        pos.X = pos.X + 20;
+                        Cursor.Position = pos;
+                        break;
+                    }
             }
         }
     }
